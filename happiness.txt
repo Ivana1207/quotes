@@ -9,4 +9,4 @@ Oi te amo ta?
 
 novo teste para ver se aparece no git
 
-Agora vamos tental o pull
+Agora vamos tentar o pull
