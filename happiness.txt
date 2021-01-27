@@ -11,6 +11,5 @@ novo teste para ver se aparece no git
 
 Agora vamos tentar o pull
 
-Commit 1
+estou a ver como isso funciona
 
-Commit 2
